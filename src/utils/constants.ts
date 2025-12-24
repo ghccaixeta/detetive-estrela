@@ -27,7 +27,7 @@ export const TIPS_DATA: ITip[] = [
   },
   {
     id: 5,
-    title: "Média - Dona Violeta",
+    title: "Médica - Dona Violeta",
     description: "Cor do peão - Rosa",
     type: "person",
   },
@@ -62,11 +62,6 @@ export const TIPS_DATA: ITip[] = [
   {
     id: 11,
     title: "Pé-de-cabra",
-    type: "thing",
-  },
-  {
-    id: 12,
-    title: "Cesta de frutas",
     type: "thing",
   },
   {
